@@ -1,1 +1,13 @@
-
+pwd
+/home/runner/Test3Session2
+ gcc -g p1final.c
+ ./a.out
+Enter the first fraction numerator : 
+1
+Enter the first fraction denominator : 
+2
+Enter the second fraction numerator : 
+2
+Enter the second fraction denominator : 
+3
+1/2 + 2/3 = 7/6
